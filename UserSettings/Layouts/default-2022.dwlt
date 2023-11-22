@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 101
+  controlID: 41
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 344
     height: 987
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 273
     height: 697
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -321,7 +321,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/materials
+    - Assets/Imports/Lets Make a VR Game/Oculus Hands/Prefabs
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,17 +329,17 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/materials
+  - Assets/Imports/Lets Make a VR Game/Oculus Hands/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\bernd\OneDrive - AP Hogeschool Antwerpen\School 23-24
     semester 1\Mixed Reality\MixedReality3dejaar
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 9}
-    m_SelectedIDs: 48980000
-    m_LastClickedID: 38984
-    m_ExpandedIDs: 00000000289400002a9400002c9400002e940000349400003694000000ca9a3b
+    scrollPos: {x: 0, y: 103}
+    m_SelectedIDs: d6dc0300
+    m_LastClickedID: 253142
+    m_ExpandedIDs: 000000004c9400004e94000050940000529400005494000036980000aedc0300c2dc030000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +367,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000289400002a9400002c9400002e9400003094000032940000349400003694000038940000
+    m_ExpandedIDs: 000000004c9400004e940000509400005294000054940000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: fa5af5ff4e53f7ffee54f7ff3a27f8ffbadbf9ff5cd6fbffd4e0fbff72edfbff1ceffbffe6fbfbff36f4fdffc4fefdfffafaffff10dd00004ee20000eae9000094f100008c630100
+      m_SelectedIDs: bc5efbff
+      m_LastClickedID: -303428
+      m_ExpandedIDs: be5cfbffbc5efbffec5efbfffa5efbff125ffbff92f1fbfffafaffffe4800000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -876,9 +876,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 27.806536, y: 12.382469, z: 44.84831}
+    m_Target: {x: -49.31053, y: -6.578865, z: -12.879463}
     speed: 2
-    m_Value: {x: 27.806536, y: 12.382469, z: 44.84831}
+    m_Value: {x: -49.31053, y: -6.578865, z: -12.879463}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -924,13 +924,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.3036067, y: -0.08414263, z: 0.0029952032, w: 0.94993395}
+    m_Target: {x: -0.22231744, y: 0.7206692, z: -0.26707307, w: -0.59990567}
     speed: 2
-    m_Value: {x: 0.3033621, y: -0.08264987, z: 0.0025377092, w: 0.9492808}
+    m_Value: {x: -0.222317, y: 0.7206677, z: -0.26707253, w: -0.5999045}
   m_Size:
-    m_Target: 8.388525
+    m_Target: 57.28353
     speed: 2
-    m_Value: 8.388525
+    m_Value: 57.28353
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -948,7 +948,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.027305795, y: 0.8601868, z: -0.04065415, w: -0.50879997}
+  m_LastSceneViewRotation: {x: 0.000094460986, y: 0.9980156, z: -0.06295814, w: 0.0014970348}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -978,7 +978,7 @@ MonoBehaviour:
     x: 273
     y: 73
     width: 1301
-    height: 741
+    height: 676
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -995,7 +995,7 @@ MonoBehaviour:
   m_ShowGizmos: 1
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1301, y: 720}
+  m_TargetSize: {x: 1301, y: 655}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1012,8 +1012,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -650.5
     m_HBaseRangeMax: 650.5
-    m_VBaseRangeMin: -360
-    m_VBaseRangeMax: 360
+    m_VBaseRangeMin: -327.5
+    m_VBaseRangeMax: 327.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1022,7 +1022,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1032,9 +1032,9 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 1301
-      height: 720
+      height: 655
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 650.5, y: 360}
+    m_Translation: {x: 650.5, y: 327.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1042,12 +1042,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -650.5
-      y: -360
+      y: -327.5
       width: 1301
-      height: 720
+      height: 655
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1301, y: 741}
+  m_LastWindowPixelSize: {x: 1301, y: 676}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1074,9 +1074,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 835
+    y: 770
     width: 1575
-    height: 204
+    height: 269
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
