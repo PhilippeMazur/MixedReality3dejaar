@@ -63,7 +63,7 @@ public class UIFade : MonoBehaviour
         }
     }
 
-    public void StartFadingPussy()
+    public void StartFading()
     {
         aNiceLookingBoolean = true;
     }

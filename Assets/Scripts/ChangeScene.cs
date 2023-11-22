@@ -20,4 +20,8 @@ public class ChangeScene : MonoBehaviour
     {
         SceneManager.LoadScene(sceneName);
     }
+    private void LoadBackupScene()
+    {
+        SceneManager.LoadScene("BackupPhilippeScene");
+    }
 }
